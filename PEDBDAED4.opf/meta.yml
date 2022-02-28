@@ -1,0 +1,88 @@
+id: PEDBDAED4
+initial_creation_type: input
+source_metadata:
+  title: Meditation Series
+  language: pt
+  description: 'A selection of texts related to various forms of meditation (sgom
+    pa; bhāvana) or contemplation, including the cultivation of calm abiding or tranquillity
+    (zhi gnas; śamatha) and insight (lhag mthong; vipaśyanā):'
+  volume:
+    2265d640bdbb4ccf96c99d9e35ead1b7:
+      title: 'Advice for Beginners: How to Overcome Obstacles to Meditation'
+      parent: Advice
+    6d2abd577b784a54a6f63ddb2ccfedd9:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      parent: Advice
+    d9e2c619d8ff4fa9aa06ece61bb4a0bc:
+      title: Putting the Instruction on the Purification of Mental Activity into Practice
+      parent: Analytical Meditation
+    843d698c2bfc40e0adea43635aa724f5:
+      title: The Wheel of Analytical Meditation That Thoroughly Purifies Mental Activity
+      parent: Analytical Meditation
+    32876c4301fc463180419443a7a25980:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      parent: Analytical Meditation
+    c41cca472970496cbb76e096a881dbef:
+      title: Advice for Hor Özer
+      parent: Dzogchen
+    dc46d3580fe3441fbb4f763fdd56226c:
+      title: 'From ''Finding Comfort and Ease in Meditation'': A Guide to Locations
+        for Cultivating Samadhi'
+      parent: Dzogchen
+    1c8f61fa7dac4d82bf8579536d0d326a:
+      title: 'From ''Finding Comfort and Ease in Meditation'': The Practitioner of
+        Meditation'
+      parent: Dzogchen
+    bc17fcf30e874c5b94d5ab1ce9f86e4d:
+      title: 'A Lamp to Dispel Darkness: An Instruction that Points Directly to the
+        Very Essence of Mind in the Tradition of ‘the Old Realized Ones’'
+      parent: Dzogchen
+    d242468316534cacad364a0ae3d63cbb:
+      title: Advice on How to Put the Meaning of the Natural Great Perfection into
+        Practice
+      parent: Dzogchen
+    9e6495ce907b4d0c893de1a1fa195c87:
+      title: 'Self-Liberating Meditation: A Profound Method for Attaining Enlightenment
+        according to the Ultimate Great Perfection'
+      parent: Dzogchen
+    c5e84b3d765e4083808090a22ca75d42:
+      title: Advice from the Lips of Tertön Sogyal
+      parent: Dzogchen
+    884daa7580ad4d06b039736538b582d6:
+      title: A Torch to Illuminate Crucial Points of the Path of Meditation
+      parent: Dzogchen
+    25e3bcdfce6a4703a8b3c7c48e8c6670:
+      title: Advice for Satsa Drupgen
+      parent: Mahāmudrā
+    0d3624c43913454ea36f22ca3b31633a:
+      title: The Mahāmudrā Practice of Stillness, Movement and Awareness
+      parent: Mahāmudrā
+    0ec22057adb14db696aa8dad3b44ee66:
+      title: A Clear and Concise Description of the Practice of Śamatha
+      parent: Śamatha
+    234c9ae2dc304b9086396c7f1ee78883:
+      title: How to Cultivate Concentration
+      parent: Śamatha
+    1024df3c358645db85273f4b27f32179:
+      title: Profound Instruction on Śamatha
+      parent: Śamatha
+    56b9e895436a4b059d4c5717e3c45d0e:
+      title: 'The Sage who Dispels Mind’s Anguish: Advice from the Guru, the Gentle
+        Protector Mañjuśrī on the Means of Accomplishing the Yogas of Śamatha and
+        Vipaśyanā'
+      parent: Śamatha & Vipaśyanā
+    4e5ff84b15484fa08a0ce0f8fb53d0b6:
+      title: 'The Light of Primordial Wisdom: An Instruction Manual for the Primordially
+        Pure Perfection Stage of the Powerful & Wrathful Dorje Drolö, Conqueror of
+        Demons'
+      parent: Śamatha & Vipaśyanā
+    c011be4685304a1fa84c971d124b4c50:
+      title: 'Clarifying the Essence: A Summary of the Instructions on the View of
+        the Middle Way'
+      parent: Vipaśyanā
+    d2abf2e381fb4db793532e3ba4069c59:
+      title: 'The Excellent Path of the Great Vehicle: How to Meditate on the Three
+        Gateways to Liberation According to the Mahāyāna'
+      parent: Vipaśyanā
+created_at: '2022-03-01T04:41:19.718576'
+last_modified_at: '2022-03-01T04:41:19.718579'
